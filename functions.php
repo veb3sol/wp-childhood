@@ -13,5 +13,9 @@ function childhood_scripts(){
 // Добавляем возможность установки лого
 add_theme_support('custom-logo');
 
+// Добавляем возможность установки картинки поста
+add_theme_support('post-thumbnails');
+
+
 
 ?>
