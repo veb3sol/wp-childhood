@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: История нашего успеха
+Template Name: Контакты
 */
 ?>
 
@@ -9,12 +9,12 @@ Template Name: История нашего успеха
 ?>
 
 <div class="contacts" id="contacts">
-    <h1 class="title">Где нас найти</h1>
+    <h1 class="title">Де нас знайти</h1>
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
                 <div class="contacts__descr underlined">
-                <?php the_field('where_are_we', 2);?>
+                <?php the_field('where_are_we');?>
                     <br> <br>
                     за адресою: <?php the_field('street', 2);?>, <?php the_field('house_number', 2);?>
                 </div>

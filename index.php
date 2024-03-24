@@ -87,7 +87,7 @@
                 <div class="about__text">
                 <?php the_field('about_description');?>
                 </div>
-                <a href="#" class="button">Узнать больше</a>
+                <a href="#" class="button">Дізнатися більше</a>
             </div>
         </div>
     </div>
