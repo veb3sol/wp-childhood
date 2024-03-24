@@ -16,6 +16,9 @@ add_theme_support('custom-logo');
 // Добавляем возможность установки картинки поста
 add_theme_support('post-thumbnails');
 
+// Добавляем возможность установки меню
+add_theme_support('menus');
+
 
 
 ?>
